@@ -3,6 +3,6 @@
   </script>
   
   <main>
-	<h1>RemitChord: Remittance Flow Visualization</h1>
+	<h1>ExportChord: Export Flow Visualization</h1>
 	<ChordDiagram />
   </main>
